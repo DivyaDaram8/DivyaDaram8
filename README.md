@@ -2,7 +2,7 @@
 A passionate and driven **Computer Science student** with a curious and creative mindset.
 
 ### 💻 **What I do:**  
-Currently diving deep into **web development** with the **MERN stack**, building projects and conquering **data structures & algorithms (DSA)** with **Java**.
+Currently diving deep into **web development** with the **MERN stack**, building projects and conquering **Data structures & Algorithms (DSA)** with **Java**.
 
 ### 🌱 **I’m currently learning:**  
 - **DSA with Java**
